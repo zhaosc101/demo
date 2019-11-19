@@ -1,3 +1,4 @@
 log01
 log02
 test_git commit
+git add rebase
