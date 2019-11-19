@@ -5,3 +5,5 @@ test_git checkout
 
 git rebase local
 git add rebase
+
+git add rebase02
