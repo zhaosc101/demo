@@ -1,3 +1,7 @@
 log01
 log02
 test_git commit
+
+test_git checkout
+
+git rebase local
